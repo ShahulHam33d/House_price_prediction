@@ -5,20 +5,19 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges you to predict the final price of each home.
 
 Practice Skills
+
 Creative feature engineering 
+
 Advanced regression techniques like random forest and gradient boosting
 
 Goal
+
 It is your job to predict the sales price for each house. For each Id in the test set, you must predict the value of the SalePrice variable. 
 
 Life cycle of the project:
 
--Data Analysis
-
--Feature Engineering
-
--Feature Selection
-
--Model Building
-
--Model Deployment
+ -Data Analysis
+ -Feature Engineering
+ -Feature Selection
+ -Model Building
+ -Model Deployment
